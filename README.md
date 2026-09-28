@@ -1,5 +1,6 @@
 # Frostbite-lcd-windows
-    This program allows to control the Dragos frostbite lcd to display cpu temps "Without installing the proprietory software"
+
+This program allows to control the Dragos frostbite lcd to display cpu temps "Without installing the proprietory software"
 
 # Windows Task Scheduler Instructions to run on start up
 
